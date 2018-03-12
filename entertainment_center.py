@@ -41,3 +41,6 @@ movies = [pitch_perfect, black_pearl, dead_man, world_end, stranger_tides, tell_
 
 # display movies on the page
 fresh_tomatoes.open_movies_page(movies)
+
+
+
